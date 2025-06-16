@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phase2-practice-project-2/static/css/main.16896cea.css",
+    "main.js": "/phase2-practice-project-2/static/js/main.e08a78f3.js",
+    "static/js/453.534073bd.chunk.js": "/phase2-practice-project-2/static/js/453.534073bd.chunk.js",
+    "index.html": "/phase2-practice-project-2/index.html",
+    "main.16896cea.css.map": "/phase2-practice-project-2/static/css/main.16896cea.css.map",
+    "main.e08a78f3.js.map": "/phase2-practice-project-2/static/js/main.e08a78f3.js.map",
+    "453.534073bd.chunk.js.map": "/phase2-practice-project-2/static/js/453.534073bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16896cea.css",
+    "static/js/main.e08a78f3.js"
+  ]
+}
